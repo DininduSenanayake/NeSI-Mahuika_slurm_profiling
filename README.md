@@ -7,5 +7,5 @@
 
 * add `#SBATCH --proflie task` to batch submission script
 * On completion of the job, create the .h5 file via `sh5util -j jobid`
-* Generate the .png file with `python rofile_plot_Jul2020.py filename.h5`
+* Generate the .png file with `python profile_plot_Jul2020.py filename.h5`
 </span>
